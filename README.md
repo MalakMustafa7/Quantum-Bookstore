@@ -54,4 +54,4 @@ Contains **custom exceptions** for business rule enforcement:
 
 Below is a sample output from the test class `QuantumBookstoreFullTest.java`:
 
-![Sample Output](https://github.com/MalakMustafa7/Quantum-Bookstore/blob/main/photo_2025-07-08_21-15-39.jpg?raw=true)
+![Sample Output] (https://github.com/MalakMustafa7/Quantum-Bookstore/blob/main/photo_2025-07-08_21-47-58.jpg?raw=true)
