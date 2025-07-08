@@ -57,7 +57,7 @@ public class QuantumBookstoreFullTest {
         try {
             service.buyBook("ISBN999", 1, "user@example.com", "N/A");
         } catch (BookNotFoundException e) {
-            System.out.println("Expected Error: " + e.getMessage());
+            System.out.println("Error: " + e.getMessage());
         }
     }
     
