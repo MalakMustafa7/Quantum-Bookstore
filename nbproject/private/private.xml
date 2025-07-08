@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/M/OneDrive/Documents/NetBeansProjects/BookStoreSystem/src/org/example/model/EBook.java</file>
+            <file>file:/C:/Users/M/OneDrive/Documents/NetBeansProjects/BookStoreSystem/src/org/example/model/ShowcaseBook.java</file>
+            <file>file:/C:/Users/M/OneDrive/Documents/NetBeansProjects/BookStoreSystem/src/org/example/model/Book.java</file>
+            <file>file:/C:/Users/M/OneDrive/Documents/NetBeansProjects/BookStoreSystem/src/org/example/exception/OutOfStockException.java</file>
+            <file>file:/C:/Users/M/OneDrive/Documents/NetBeansProjects/BookStoreSystem/src/org/example/service/MailService.java</file>
+            <file>file:/C:/Users/M/OneDrive/Documents/NetBeansProjects/BookStoreSystem/src/org/example/exception/BookNotFoundException.java</file>
+            <file>file:/C:/Users/M/OneDrive/Documents/NetBeansProjects/BookStoreSystem/src/org/example/exception/NotForPurchaseException.java</file>
+            <file>file:/C:/Users/M/OneDrive/Documents/NetBeansProjects/BookStoreSystem/src/org/example/QuantumBookstoreFullTest.java</file>
+            <file>file:/C:/Users/M/OneDrive/Documents/NetBeansProjects/BookStoreSystem/src/org/example/service/ShippingService.java</file>
+            <file>file:/C:/Users/M/OneDrive/Documents/NetBeansProjects/BookStoreSystem/src/org/example/model/PaperBook.java</file>
+            <file>file:/C:/Users/M/OneDrive/Documents/NetBeansProjects/BookStoreSystem/src/org/example/service/BookInventoryService.java</file>
+            <file>file:/C:/Users/M/OneDrive/Documents/NetBeansProjects/BookStoreSystem/src/org/example/service/BookInventory.java</file>
+        </group>
+    </open-files>
+</project-private>
