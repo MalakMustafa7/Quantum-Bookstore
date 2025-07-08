@@ -49,4 +49,9 @@ Contains **custom exceptions** for business rule enforcement:
 
 - **Extensible**: New book types can be added without modifying existing logic.
 - **OOP Principles**: Polymorphism, abstraction, encapsulation, and separation of concerns.
-- **Clean Output**: All messages are prefixed with `Quantum book store:` for consistency.
+
+ ###  Sample Output
+
+Below is a sample output from the test class `QuantumBookstoreFullTest.java`:
+
+![Sample Output](https://github.com/MalakMustafa7/Quantum-Bookstore/blob/main/photo_2025-07-08_21-15-39.jpg?raw=true)
